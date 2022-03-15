@@ -164,6 +164,12 @@ img {
   color: #4B2E83;
 }
 
+#profile {
+     width: 20%;
+     height: auto;
+        display: block;
+}
+
 /* Projects section */
 
 .projects-section {
@@ -327,3 +333,4 @@ footer i {
     text-align: center;
   }
 }
+
